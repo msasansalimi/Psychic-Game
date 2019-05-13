@@ -1,5 +1,7 @@
 # Psychic-Game
 
+#### This apps will run in the browser, and feature dynamically updated HTML and CSS powered by your JavaScript code.
+
 1. Psychic Game
 
 2. This app randomly picks a letter, and the user has to guess which letter the app chose.
